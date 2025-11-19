@@ -1,0 +1,28 @@
+
+body{
+  margin:0;
+  font-family:Arial,Segoe UI;
+  background:linear-gradient(160deg,#ffb6d9,#ff80b5,#ff4f8c);
+  color:#4a0024;
+}
+.container{max-width:900px;margin:auto;padding:20px;}
+.header{background:#ff1f6b;padding:10px 0;text-align:center;color:white;box-shadow:0 4px 12px #0004;}
+.logo{width:60px;}
+.hero{text-align:center;color:white;margin:40px 0;}
+.section h2{color:#4a0024;text-shadow:0 1px 2px #fff7;}
+.card{
+  background:rgba(255,255,255,.8);
+  padding:18px;
+  margin:12px 0;
+  border-radius:14px;
+  border:2px solid #ff4f8c;
+  backdrop-filter:blur(4px);
+  box-shadow:0 4px 10px #0003;
+}
+.footer{
+  text-align:center;
+  padding:20px;
+  background:#ff1f6b;
+  color:white;
+  margin-top:40px;
+}
